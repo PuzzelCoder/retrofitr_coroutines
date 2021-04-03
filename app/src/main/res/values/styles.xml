@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MySearch" parent="Widget.AppCompat.SearchView.ActionBar">
+        <item name="queryBackground">@color/white</item>
+        <item name="queryHint">Search here</item>
+        <item name="searchHintIcon">@null</item>
+        <item name="searchIcon">@drawable/search_icon_white</item>
+    </style>
+</resources>
